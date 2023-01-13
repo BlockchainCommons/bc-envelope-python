@@ -1,16 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # Contributor License Agreement
 
 Version 1.0
 
-Name: `$name`
+Name: `Wolf McNally`
 
-E-Mail: `$email`
+E-Mail: `wolf@wolfmcnally.com`
 
 Legal Jurisdiction: Wyoming, United States of America
 
 Project: https://github.com/BlockchainCommons/bc-envelope-python
 
-Date: `$date`
+Date: `13 January 2023`
 
 ## Purpose
 
@@ -50,6 +53,22 @@ I promise not to offer contributions that contain or depend on the work of other
 
 ***As far as the law allows, my contributions come as is, without any warranty or condition.  Other than under [Copyright Guarantee](#copyright-guarantee), [Patent Guarantee](#patent-guarantee), or [Open Source Guarantee](#open-source-guarantee), I will not be liable to anyone for any damages related to my contributions or this contributor license agreement, under any kind of legal claim.***
 
----
+- ---
 
 To sign this Contributor License Agreement, fill in `$name`, `$email`, and `$date` above. Then sign using GPG using the following command `gpg --armor --clearsign --output ./CLA-signed/CLA.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc CLA.md`, then either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to [ChristopherA@BlockchainCommons.com](mailto:ChristopherA@BlockchainCommons.com).
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEElDZS7jhEF2DD3DU2S2wvz4lHgK4FAmPBNAIACgkQS2wvz4lH
+gK4U9A/+IFZYyMB/0Si1wO1YyV8L9BxOCMGFLMEvxk+DgeUfIs9UhYmAekxZ5VYM
+MeswCvxj7H8/7gzFBN4UnwF5uYK9UVL4eaYHqd0isV2xSHPfIMvuJqWXCnzYWb+G
+EjJ01SC8qW4Wceasm5TPAyOuGYg8tv9A/BAcyPeC9RMT+N0mHjEC1zv9Bfe4Gdun
+6/ZwuM4iMXaMZ2c8q6f1pwyZ7LI7u4nCSi01g1bKNTd3QPVAiJAD//D0PEr3JA9s
+J9qde+wPPKPSKWCTz4apwaRYJzKkUbaW+l7Kz7O2T75Eu/uDpa5GKyRnjWs+goJF
+TO9d42tqqOcrhT5tdo2Acozdbpym2s+Tqsi+t5rBrPal/I07fBN3ZtW4eZCjh5Tb
+AIbojWXClOSSKLF5uJjhRP8gWhweatzROQGW0ubZ8sqRD2S5tREpOKFMTn8zssKm
+jAkTIp1iVjFFX5rdilyzZfpspK4ORFjyApfyGfd36Se3yzK24eiY/biGOj+Yl4sd
+bP3lwq3/XKBe94yYfySEv1u7UPJk8e8XFUhfBYp0j/kqq6ZvGOiFjSnaUBEKjD8j
+QmktiYIv+r26NhidUilNWozCkVBN3Oic7ExCN+jN+BVrI0PmmK6qNJ/e84njFTO5
+p6NuxgZOJ5bCr0+UQbaLv1615JpPxgHpM42OM+pfRKII+4y4XTA=
+=LjxW
+-----END PGP SIGNATURE-----
